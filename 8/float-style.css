@@ -1,0 +1,16 @@
+/* .clearfix::after {
+    content: " ";
+    display: block;
+    clear: both;
+  } */
+  
+  aside {
+    float: left;
+  }
+  
+  main {
+    float: right;
+  }
+  footer{
+      clear: both;
+  }
